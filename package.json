@@ -1,0 +1,13 @@
+{
+  "name": "delta-batch",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "prisma": "^5.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0",
+    "@prisma/client": "^5.0.0"
+  }
+}
